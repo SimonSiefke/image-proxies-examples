@@ -1,19 +1,19 @@
-# imgproxy
+# Caravaggio
 
 ```sh
-docker run -p 8080:8080 -it darthsim/imgproxy
+docker run --name caravaggio -p 8565:8565 -ti ramielcreations/caravaggio
 ```
 
 ## Basic Example
 
 - Url: http://source.unsplash.com/random
-- Proxy Url: http://localhost:8080/insecure/plain/http://source.unsplash.com/random
+- Proxy Url: http://localhost:8565/?image=http://source.unsplash.com/random
 
 ## Resize Example
 
 - Url: http://source.unsplash.com/random
 - Resize to 300x200
-- Proxy Url: http://localhost:8080/insecure/fit/300/200/no/0/plain/http://source.unsplash.com/random
+- Proxy Url: http://localhost:8565/rs,s:300x200?image=http://source.unsplash.com/random
 
 ## Memory Usage
 
