@@ -19,6 +19,10 @@ docker run -p 8080:8080 -it darthsim/imgproxy
 
 - 25MB
 
+## License
+
+- MIT
+
 ## Docs
 
 - https://docs.imgproxy.net/#/generating_the_url_basic?id=example

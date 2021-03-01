@@ -19,6 +19,10 @@ docker run --name caravaggio -p 8565:8565 -ti ramielcreations/caravaggio
 
 - 25MB
 
+## License
+
+- Free to use for non-commercial purpose.
+
 ## Docs
 
 - https://docs.imgproxy.net/#/generating_the_url_basic?id=example
