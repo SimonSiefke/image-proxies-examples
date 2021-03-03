@@ -17,7 +17,7 @@ docker run -p 8080:8080 -it darthsim/imgproxy
 
 ## Memory Usage
 
-- 25MB
+- 24.8MB
 
 ## Docker install time
 

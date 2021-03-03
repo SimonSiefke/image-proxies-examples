@@ -1,7 +1,7 @@
 # Caravaggio
 
 ```sh
-docker run --name caravaggio -p 8565:8565 -ti ramielcreations/caravaggio
+docker run -p 8565:8565 -ti ramielcreations/caravaggio
 ```
 
 ## Basic Example
