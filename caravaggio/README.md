@@ -19,6 +19,10 @@ docker run --name caravaggio -p 8565:8565 -ti ramielcreations/caravaggio
 
 - 25MB
 
+## Docker install time
+
+- 22.266s
+
 ## License
 
 - Free to use for non-commercial purpose.

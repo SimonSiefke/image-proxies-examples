@@ -19,6 +19,10 @@ docker run -p 8080:8080 -it darthsim/imgproxy
 
 - 25MB
 
+## Docker install time
+
+- 26.783s
+
 ## License
 
 - MIT
