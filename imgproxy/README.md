@@ -27,6 +27,10 @@ docker run -p 8080:8080 -it darthsim/imgproxy
 
 - 1.518s
 
+## Smart Crop
+
+- Yes (LibVips)
+
 ## License
 
 - MIT

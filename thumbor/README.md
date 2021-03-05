@@ -27,6 +27,10 @@ docker run -p 8080:80 minimalcompact/thumbor
 
 - 2.555s
 
+## Smart Crop
+
+- Yes
+
 ## License
 
 - MIT

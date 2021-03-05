@@ -27,6 +27,10 @@ docker run -p 8565:8565 -ti ramielcreations/caravaggio
 
 - 2.045s
 
+## Smart Crop
+
+- Yes (LibVips)
+
 ## License
 
 - Free to use for non-commercial purpose.
